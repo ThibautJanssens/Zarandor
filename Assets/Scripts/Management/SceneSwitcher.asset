@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6e5cc8d9ba74931879d6695be4a960, type: 3}
+  m_Name: SceneSwitcher
+  m_EditorClassIdentifier: 
+  mainMenuName: {fileID: 11400000, guid: 645202aae229642a8b4a31efa2c2bc48, type: 2}
+  level1Name: {fileID: 11400000, guid: 65ca241ccb17a403fb3338062830c517, type: 2}
+  gameOverName: {fileID: 11400000, guid: a03997b8b90804a588b3b2d2a52e5136, type: 2}
